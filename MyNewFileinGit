@@ -1,0 +1,1 @@
+select * from foo1 -- this file is created in Git, will add to my local repo in VS
